@@ -37,7 +37,7 @@ namespace Lab9
                 }
                 else
                 {
-                    Console.WriteLine("You made {0} circle(s)!", counter);
+                    Console.WriteLine("You made {0} circle things!", counter);
                     loop = false;
                 }
             }
